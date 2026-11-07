@@ -2,6 +2,14 @@
 
 ### Backend Developer | PHP Laravel | Java Spring Boot
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Developer;PHP+Laravel+Developer;Java+Spring+Boot+Developer;REST+API+Enthusiast;Building+Real-World+Applications" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=navin-net&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 I'm a Backend Developer from Phnom Penh, Cambodia, passionate about building web applications, REST APIs, and database-driven systems.
 
 I enjoy learning new technologies, solving problems, and developing practical software solutions.
@@ -62,18 +70,38 @@ I enjoy learning new technologies, solving problems, and developing practical so
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navin-net&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=navin-net&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navin-net&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navin-net&layout=compact&theme=github_dark&hide_border=true)
+---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/navin-net/navin-net/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
 ---
 
 ### 📫 Connect With Me
 
-- 🌐 Portfolio: [navindev.online](https://navindev.online/)
-- 💻 GitHub: [@navin-net](https://github.com/navin-net)
-- 📍 Phnom Penh, Cambodia
+<p align="center">
+  <a href="https://navindev.online/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/navin-net">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📍 Phnom Penh, Cambodia
+</p>
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
