@@ -76,9 +76,9 @@ I enjoy learning new technologies, solving problems, and developing practical so
 ### 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/navin-net/navin-net/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=navin-net&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navin-net&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
-
 ---
 
 ### 📫 Connect With Me
