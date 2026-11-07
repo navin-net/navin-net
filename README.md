@@ -55,7 +55,6 @@ I enjoy learning new technologies, solving problems, and developing practical so
 | Project | Description | Technology |
 |---|---|---|
 | [SmartRestaurantPos](https://github.com/navin-net/SmartRestaurantPos) | Restaurant Management & POS REST API | Java, Spring Boot |
-| [AppApi](https://github.com/navin-net/AppApi) | Spring Boot REST API project | Java, Spring Boot |
 | [StockManagerAdvance](https://github.com/navin-net/StockManagerAdvance) | Inventory Management & POS System | Laravel, JavaScript |
 | [Basic-Java-OOP](https://github.com/navin-net/Basic-Java-OOP) | Java Object-Oriented Programming practice | Java |
 
