@@ -69,14 +69,7 @@ I enjoy learning new technologies, solving problems, and developing practical so
 ---
 
 ### 📊 GitHub Statistics
-
-<p align="center">
-<!-- Contribution streak -->
-<img src="https://streak-stats.demolab.com/?user=navin-net&theme=radical&hide_border=true" />
-
-<!-- Contribution activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navin-net&theme=react-dark&hide_border=true" />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=navin-net&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" /> </p>
 
 ---
 
